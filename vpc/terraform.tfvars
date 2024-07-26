@@ -1,0 +1,5 @@
+region="us-east-1"
+access_key=""
+secret_key=""
+cidr="10.10.0.0/16"
+name="bebo"
